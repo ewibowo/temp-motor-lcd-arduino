@@ -1,2 +1,4 @@
-# temp-motor-lcd-arduino
-This arduino project shows how to control the speed of motor based on the temperature.
+# Temperature-controlled Fan
+This arduino project shows how to control the speed of motor with a fan based on the temperature.
+
+
